@@ -1,5 +1,9 @@
-bobby
-fixed it all 
+both bobby and mike
+
+
+fdf
+
+>>>>>>> 9ced6c7d1d272e9b774b2a8d5f846ee15e2e43b9
 est 
 dev
 today i added this line 
